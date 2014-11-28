@@ -1,0 +1,758 @@
+/**
+ * @file
+ * Styles are organized using the SMACSS technique. @see http://smacss.com/book/
+ *
+ * When you turn on CSS aggregation at admin/config/development/performance, all
+ * of these @include files will be combined into a single file.
+ */
+
+/* HTML element (SMACSS base) rules */
+@import "normalize.css";
+
+/* Layout rules */
+@import "layouts/responsive.css";
+
+/* Component (SMACSS module) rules */
+@import "components/misc.css";
+/* Optionally, add your own components here. */
+@import "print.css";
+
+/* SMACSS theme rules */
+/* @import "theme-A.css"; */
+/* @import "theme-B.css"; */
+.admin-menu-icon img {
+	max-width: 14px;
+}
+
+.menu li {
+	float: right;
+	width: auto;
+	margin-top: 92px;
+}
+
+.menu li {
+	display: inline-block;
+	vertical-align: bottom;
+	margin-right: 14px;
+}
+
+.menu li a {
+	display: block;
+	position: relative;
+	color: #FFF;
+	text-transform: uppercase;
+	text-decoration: none;
+	top: 3px;
+	font-size: 0.89em;
+	line-height: 1;
+}
+/*********************
+ * GLOBAL SPRITE
+ *********************/
+footer li a {
+	background-image:url('../images/green-racing-global-sprite.png');
+	background-repeat: no-repeat;
+}
+
+.doe,
+.epa,
+.sae {
+	float: left;
+	display: block;
+	height: 43px;
+	margin-right:20px;
+	margin-bottom: 40px;
+}
+
+.doe {
+	background-position: 0px -264px;
+	width: 145px;
+}
+
+.epa {
+	background-position: 0px -205px;
+	width: 230px;
+}
+
+.sae {
+	background-position: 0px -150px;
+	width: 245px;
+}
+
+footer ul {
+	margin-top: 15px;
+}
+
+body {
+	 display: none; 
+}
+/*********************
+ * TYPOGRAPHY
+ *********************/
+
+h1,h2,h3,h4,p,li,a,figcaption,strong,div {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: lighter;
+}
+
+.pane-title,
+.items strong,
+.main-wrap h1,
+.main-wrap h1, .main-wrap h2,
+#main-slider figcaption a,
+#main-slider figcaption strong {
+	text-transform: uppercase;
+}
+
+.front .panel-col-last .field-content,
+aside .date {
+	color: #c1c2c1;
+}
+
+li {
+	list-style-type: none;
+}
+/*********************
+ * RESPONSIVE GRID
+ *********************/
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+#st-container,
+.main-wrap {
+	margin: 0 auto;
+	position: relative;
+	display: block;
+	width: 95%;
+	max-width: 1024px;
+}
+
+.col-100 {
+	width: 100%;
+}
+
+.col-70 {
+	width: 75%;
+}
+
+.col-30 {
+	width: 29%;
+}
+
+.col-25 {
+	width: 25%;
+}
+.inner-wrap {
+	width: auto;
+	margin-bottom: 30px;
+}
+
+.pane-highlight .field-content a {
+	display: none;
+}
+.pane-highlight,
+.panel-2col-stacked .panel-col-first {
+	float: left;
+	width: 72%!important;
+}
+
+.panel-2col-stacked .panel-col-last {
+	float: right!important;
+	width: 25%!important;
+	margin-top: 25px;
+}
+
+.panel-2col-stacked .panel-col-last .inside {
+	margin: 0!important;
+}
+
+.panel-col-first .views-row {
+	width: 30%!important;
+	margin-right: 20px;
+	float: left;
+}
+
+.front .panel-col-last .field-content {
+	margin: 10px 0px 20px 0px;
+}
+
+/**************************
+ * NORMALIZE.CSS OVERRIDES
+ **************************/
+
+.main-wrap ul {
+	padding: 0;
+}
+
+.pane-title,
+.main-wrap h1,
+.main-wrap h2 {
+	color: #0f6a38;
+	font-size: 1.33em;
+	margin-bottom: 5px;
+	margin-top: 0;
+}
+
+.main-wrap p {
+	margin: 0;
+}
+
+.panel-col-first {
+	margin-bottom: 35px;
+}
+/*********************
+ * MAIN NAVIGATION
+ *********************/
+
+header {
+	margin-bottom: 20px;
+	padding: 20px 15px 0px 20px;
+	background: #5d9300;
+	height: 140px;
+	-webkit-transition: all .5s ease;
+	-moz-transition: all .5s ease;
+	-o-transition: all .5s ease;
+	transition: all .5s ease;
+}
+
+.deflate header {
+	height: 65px;
+	padding: 5px;
+	position: fixed;
+	display: block;
+	width: 100%;
+	border-bottom: 3px solid #c1c2c1;
+	top: 0;
+	-webkit-transition: height .5s ease;
+	-moz-transition: height .5s ease;
+	-o-transition: height .5s ease;
+	transition: height .5s ease;
+	z-index: 999;
+	left: 0;
+}
+
+.deflate .nav-links {
+	float: right;
+	width: auto!important;
+	margin-top: 9px;
+	position: relative!important;
+	border: none!important;
+}
+
+header,
+#logo img, .nav-links, .deflate {
+	-webkit-transition: .35s ease;
+	-moz-transition:.35s ease;
+	-o-transition: .35s ease;
+	transition: .35s ease;
+}
+
+.deflate #logo img {
+	width: 40%;
+	margin-top: 4px;
+}
+
+.nav-logo {
+	float: left;
+}
+
+.nav-links {
+	float: right;
+	width: auto;
+	margin-top: 82px;
+}
+
+nav li {
+	display: inline-block;
+	vertical-align: bottom;
+	margin-right: 14px;
+}
+
+nav li a {
+	display: block;
+	position: relative;
+	color: #FFF;
+	text-transform: uppercase;
+	text-decoration: none;
+	top: 3px;
+	font-size: 0.89em;
+	line-height: 1;
+}
+
+nav li a:hover {
+	color: #000;
+}
+
+.last {
+	margin-right: 0!important;
+}
+/*********************
+ * HOME PG SLIDER
+ *********************/
+#main-slider {
+	margin-bottom: 30px;
+	overflow: hidden;
+	zoom: 1;
+	position: relative;
+	height: 392px;
+
+}
+
+#main-slider figure {
+	position: relative;
+}
+
+#main-slider figcaption {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 40%;
+	padding: 15px 15px 2px 15px;
+	background-image:url('../images/slider-figcap-bg.png');
+}
+
+#main-slider figcaption div {
+	font-size: 0.65em;
+	letter-spacing: 1px;
+}
+
+#main-slider figcaption a {
+	float: right;
+	text-decoration: none;
+}
+
+#main-slider figcaption a:hover {
+	text-decoration: underline;
+	color: #138bba;
+}
+
+#main-slider figcaption,
+#main-slider figcaption a {
+	color: #FFF;
+}
+
+#slider-nubs {
+	float: right;
+	margin: 0;
+	position: relative;
+	margin-top: -15px;
+}
+
+#slider-nubs li {
+	display: inline-block;
+	background: #cccccc;
+	width: 15px;
+	height: 15px;
+	border-radius: 15px;
+	cursor: pointer;
+}
+
+#slider-nubs li:hover {
+	opacity: 0.8;
+}
+
+#slider-nubs .current {
+	background: #0f6a38;
+}
+/*********************
+ * MAIN CONTENT BLOCK
+ *********************/
+
+.main-content-block {
+	float: left;
+	margin-bottom: 45px;
+}
+
+.items {
+	float: left;
+	margin-right: 3%;
+}
+
+.items img {
+	margin-bottom: 15px;
+}
+
+p,
+.items figcaption,
+.views-field-field-exhibit-info  {
+	font-size: 0.9em;
+	line-height: 18px;
+	margin: 0;
+}
+
+.field-content a,
+.items strong {
+	display: block;
+	color: #0f6a38;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+.field-content a:hover {
+	text-decoration: underline;
+}
+
+.field-content img {
+	margin-bottom: 7px;
+}
+/*********************
+ * SIDEBAR
+ *********************/
+aside {
+	float: right;
+	margin-top: 20px;
+}
+.panel-col-last h2,
+aside h4 {
+	color: #138bba;
+	margin: 0;
+	font-size: 1em;
+	text-transform: uppercase;
+	border-bottom: 1px solid #c1c2c1;
+}
+
+aside ul {
+	margin:10px 0px 20px 0px;
+}
+
+aside li {
+	margin-bottom: 15px;
+}
+
+.panel-col-last .field-content a,
+.programs a,
+.date-link-format a {
+	font-size: 0.85em;
+	text-decoration: none;
+	text-transform: capitalize;
+	line-height: 18px;
+	display: block;
+	margin-bottom: 15px;
+}
+
+.panel-col-last a,
+.date-link-format a {
+	color: #138bba;
+}
+
+.user-picture img {
+	width: 121px;
+}
+.programs a {
+	color: #c1c2c1;
+}
+
+.panel-col-last a:hover,
+.programs a:hover,
+.date-link-format a:hover {
+	text-decoration: underline;
+}
+
+.feed-icon img {
+	width: 15px;
+}
+
+article header {
+	background: none;
+}
+
+.not-front #content {
+	width: 70%;
+	float: right;
+}
+.not-front .region-sidebar-left {
+	width: 25%;
+	float: left;
+}
+.not-front .region-sidebar-left h2 {
+	display: none;
+}
+
+.region-sidebar-left a {
+	font-size: 1em;
+	text-decoration: none;
+	text-transform: capitalize;
+	line-height: 18px;
+	display: block;
+	color: #138bba;
+	margin-bottom: 7px;
+}
+.region-sidebar-left a:hover {
+	text-decoration: underline;
+}
+.region-sidebar-left p {
+	margin: 20px 0px 5px 0px;
+	padding-bottom:3px;
+	border-bottom: 1px solid #c1c2c1;
+}
+.not-logged-in .tabs-primary {
+	display: none;
+}
+.featured_overlay  {
+	font-size: 0.8em;
+	line-height: 18px;
+}
+.featured_overlay a {
+	margin-top: 10px;
+}
+/*********************
+ * FOOTER
+ *********************/
+
+footer {
+	margin: 30px 0px 100px 0px;
+	border-top: 1px solid #000;
+	clear: both;
+}
+
+/*********************
+ * MOBILE HEADER
+ *********************/
+#mobile {
+	display: none;
+}
+/*********************
+ * MOBILE MEDIA QUERIES
+ *********************/
+@media only screen and (max-width:1023px){
+	#st-container,
+	.main-wrap {
+		width: 100%;
+	}
+	#main-slider {
+		height: 368px;
+	}
+	#menu-3 {
+		position: fixed;
+		width: 200px;
+	}
+	#logo {
+		margin: 70px 0px 0px 0px;
+	}
+	nav li {
+		width: 100%;
+	}
+	header {
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 100;
+		visibility: hidden;
+		width: 200px;
+		height: 100%;
+		-webkit-transition: all 0.5s;
+		transition: all 0.5s;
+	}
+	#mobile {
+		display:block;
+		width: 100%;
+		height: 60px;
+		padding:10px;
+		background-color: #c1c1c1;
+		position: fixed;
+		top: 0;
+		z-index: 99999;
+		box-shadow: 0px 0px 3px #000;
+	}
+	.mobile-logo {
+		width: 130px;
+		margin: 0 auto;
+		display: block;
+	}
+	.col-70 {
+		width: 100%;
+	}
+	.col-30 {
+		width: 32%;
+	}
+	.items {
+		margin-right: 2%;
+	}
+	.items:last-child {
+		margin-right: 0;
+	}
+	.col-25 {
+		width: 100%;
+	}
+	.doe, .epa, .sae {
+		float: none;
+		margin: 30px auto;
+	}
+	.st-content {
+		overflow-x: hidden;
+		background: #f3efe0;
+	}
+	footer {
+		margin: 30px 0px 0px 0px;
+	}
+	
+	.st-content,
+	.st-content-inner {
+		position: relative;
+	}
+	
+	.st-container {
+		position: relative;
+		overflow: hidden;
+	}
+	
+	.st-pusher {
+		position: relative;
+		left: 0;
+		z-index: 99;
+		-webkit-transition: -webkit-transform 0.5s;
+		transition: transform 0.5s;
+		padding: 15px;
+	}
+	#st-trigger-effects.st-pusher::after {
+		
+	}
+	.col-100 {
+		margin-top: 70px;
+	}
+	.st-pusher::after {
+		position: absolute;
+		top: 0;
+		right: 0;
+		width: 0;
+		height: 0;
+		background: rgba(0,0,0,0.2);
+		content: '';
+		opacity: 0;
+		-webkit-transition: opacity 0.5s, width 0.1s 0.5s, height 0.1s 0.5s;
+		transition: opacity 0.5s, width 0.1s 0.5s, height 0.1s 0.5s;
+	}
+	
+	.st-menu-open .st-pusher::after {
+		width: 100%;
+		height: 100%;
+		opacity: 1;
+		-webkit-transition: opacity 0.5s;
+		transition: opacity 0.5s;
+	}
+	
+	.st-menu {
+		position: absolute;
+		top: 0;
+		left: -212px;
+		z-index: 100;
+		visibility: hidden;
+		width: 300px;
+		height: 100%;
+		background: #5d9300;
+		-webkit-transition: all 0.5s;
+		transition: all 0.5s;
+	}
+	
+	.st-menu::after {
+		position: absolute;
+		top: 0;
+		right: 0;
+		width: 100%;
+		height: 100%;
+		background: rgba(0,0,0,0.2);
+		content: '';
+		opacity: 1;
+		-webkit-transition: opacity 0.5s;
+		transition: opacity 0.5s;
+	}
+	
+	.st-menu-open .st-menu::after {
+		width: 0;
+		height: 0;
+		opacity: 0;
+		-webkit-transition: opacity 0.5s, width 0.1s 0.5s, height 0.1s 0.5s;
+		transition: opacity 0.5s, width 0.1s 0.5s, height 0.1s 0.5s;
+	}
+	
+	/* content style */
+	
+	.st-menu ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+	
+	.st-menu h2 {
+		margin: 0;
+		padding: 1em;
+		color: rgba(0,0,0,0.4);
+		text-shadow: 0 0 1px rgba(0,0,0,0.1);
+		font-weight: 300;
+		font-size: 2em;
+	}
+	
+	.st-menu ul li a {
+		display: block;
+		padding: 1em 1em 1em 1.2em;
+		outline: none;
+		box-shadow: inset 0 -1px rgba(0,0,0,0.2);
+		color: #f3efe0;
+		text-transform: uppercase;
+		text-shadow: 0 0 1px rgba(255,255,255,0.1);
+		letter-spacing: 1px;
+		font-weight: 400;
+		-webkit-transition: background 0.3s, box-shadow 0.3s;
+		transition: background 0.3s, box-shadow 0.3s;
+	}
+	
+	.st-menu ul li:first-child a {
+		box-shadow: inset 0 -1px rgba(0,0,0,0.2), inset 0 1px rgba(0,0,0,0.2);
+	}
+	
+	.st-menu ul li a:hover {
+		background: rgba(0,0,0,0.2);
+		box-shadow: inset 0 -1px rgba(0,0,0,0);
+		color: #fff;
+	}
+	
+	.st-effect-3.st-menu-open .st-pusher {
+		-webkit-transform: translate3d(210px, 0, 0);
+		transform: translate3d(210px, 0, 0);
+	}
+	
+	.st-effect-3.st-menu {
+		-webkit-transform: translate3d(-100%, 0, 0);
+		transform: translate3d(-100%, 0, 0);
+	}
+	
+	.st-effect-3.st-menu-open .st-effect-3.st-menu {
+		visibility: visible;
+		-webkit-transition: -webkit-transform 0.5s;
+		transition: transform 0.5s;
+	}
+	
+	.st-effect-3.st-menu::after {
+		display: none;
+	}
+}
+
+@media only screen and (max-width:620px){
+	#main-slider {
+		height: 227px;
+	}
+	#main-slider figcaption {
+		position: relative;
+		width: auto;
+		padding: 10px;
+	}
+	#main-slider figcaption a {
+		float: right;
+		display: block;
+		font-size: 0.8em;
+		margin-top: -8px;
+	}
+	h1 {
+		text-transform: uppercase;
+		color: #0f6a38;
+		font-size: 1.33em;
+		margin: 0px 0px 7px 0px;
+	}
+	.col-30 {
+		width: 100%;
+		margin-bottom: 30px;
+	}
+}
