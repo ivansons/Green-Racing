@@ -6,8 +6,7 @@ Green Racing theme - Development version
 ##Browser Support: 
 508 Compliance/Screen Readers are TBA'd Chrome, Firefox, Safari, IE8-11, iPhone, iPad, and Android
 
-* Source: []()
-* Live URL: []()
+* Staging URL: [http://205.254.148.175/vehiclesandfuels/greenracingcup/](http://205.254.148.175/vehiclesandfuels/greenracingcup/)
 
 ## Features
 
