@@ -23,10 +23,11 @@ Green Racing theme - Development version
 
 ## How to use
 
-1. Something
-2. Something else
-3. Then do this
-4. Or do that
+1. Set up with MAMP, Acquia Dev Desktop, or the like.
+2. Set up db in phpmyadmin
+3. Clone this repo into your htdocs or localhost folder
+4. Use Back up and migrate module to install the mySQL db in the dbBackUp folder in root
+5. After you install the green racing mySQL db, you will most likely see errors; Flush all caches and run CRON to clear it up.
 
 
 ## Contributing
