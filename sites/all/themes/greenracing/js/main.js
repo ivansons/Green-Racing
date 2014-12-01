@@ -192,7 +192,7 @@ $(document).ready(function () {
 
     new Slider({
       initial   : 0,
-      timeout   : 3000,
+      timeout   : 30000,
       speed     : 1100,
       selectors : {
         slides    : '#main-slider figure',
@@ -200,7 +200,7 @@ $(document).ready(function () {
         hover     : '#main-slider'
       }
     });
-
+    $(".featured_overlay, #slider-nubs").css('display','none');
     $('nav li:last, .items:last').addClass('last');
     
     $('body').fadeIn(1100);

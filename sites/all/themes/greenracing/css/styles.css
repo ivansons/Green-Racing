@@ -91,7 +91,7 @@ body {
  *********************/
 
 h1,h2,h3,h4,p,li,a,figcaption,strong,div {
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Lato', sans-serif;
 	font-weight: lighter;
 }
 
@@ -503,7 +503,7 @@ article header {
  *********************/
 
 footer {
-	margin: 30px 0px 100px 0px;
+	margin: 30px 0px 0px 0px;
 	border-top: 1px solid #000;
 	clear: both;
 }
@@ -514,7 +514,26 @@ footer {
 #mobile {
 	display: none;
 }
-/*********************
+
+/**********************
+**** MISCELLANEOUS ****
+/**********************/
+.not-front .field-item:first-child {
+	height: 250px;
+	overflow: hidden;
+}
+
+.not-front .field-items img {
+	margin-top: -150px;
+}
+
+.not-front .field-item {
+	margin-top: 20px;
+}
+
+
+
+ /***********************
  * MOBILE MEDIA QUERIES
  *********************/
 @media only screen and (max-width:1023px){
@@ -588,7 +607,7 @@ footer {
 	footer {
 		margin: 30px 0px 0px 0px;
 	}
-	
+
 	.st-content,
 	.st-content-inner {
 		position: relative;

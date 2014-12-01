@@ -61,7 +61,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="format-detection" content="telephone=no">
     <?php print $styles; ?>
-    <link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
     <!--[if lt IE 9]>
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     <![endif]-->
@@ -71,11 +71,11 @@
   <?php print $page; ?>
   <?php print $page_bottom; ?>
   <?php print $scripts; ?>
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="<?php print base_path() . path_to_theme(); ?>/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-        <script src="<?php print base_path() . path_to_theme(); ?>/js/main.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="<?php print base_path() . path_to_theme(); ?>/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+    <script src="<?php print base_path() . path_to_theme(); ?>/js/main.js"></script>
 
-        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 
 </body>
 </html>
