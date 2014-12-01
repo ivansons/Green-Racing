@@ -61,8 +61,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="format-detection" content="telephone=no">
     <?php print $styles; ?>
-    <link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
-    <!--[if lt IE 9]>
+    <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>    <!--[if lt IE 9]>
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     <![endif]-->
 </head>

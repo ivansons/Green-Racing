@@ -192,7 +192,7 @@ $(document).ready(function () {
 
     new Slider({
       initial   : 0,
-      timeout   : 3000,
+      timeout   : 30000,
       speed     : 1100,
       selectors : {
         slides    : '#main-slider figure',
@@ -200,6 +200,9 @@ $(document).ready(function () {
         hover     : '#main-slider'
       }
     });
+
+  $( ".not-front .field-item img" ).wrap( "<div class='helper'></div>" );
+
 
     $('nav li:last, .items:last').addClass('last');
     
