@@ -56,7 +56,11 @@ HTML comment.
   <?php endif; ?>
   <div class="field-items"<?php print $content_attributes; ?>>
     <?php foreach ($items as $delta => $item): ?>
+<<<<<<< HEAD
       <div class="field-item <?php print $delta % 2 ? 'odd' : 'even'; ?>"<?php print $item_attributes[$delta]; ?>> <div class="img-fix"> <?php print render($item); ?></div> </div>
+=======
+      <div class="field-item <?php print $delta % 2 ? 'odd' : 'even'; ?>"<?php print $item_attributes[$delta]; ?>><?php print render($item); ?></div>
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
     <?php endforeach; ?>
   </div>
 </div>

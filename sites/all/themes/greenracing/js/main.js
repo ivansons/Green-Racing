@@ -200,10 +200,14 @@ $(document).ready(function () {
         hover     : '#main-slider'
       }
     });
+<<<<<<< HEAD
 
   $( ".not-front .field-item img" ).wrap( "<div class='helper'></div>" );
 
 
+=======
+    $(".featured_overlay, #slider-nubs").css('display','none');
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
     $('nav li:last, .items:last').addClass('last');
     
     $('body').fadeIn(1100);

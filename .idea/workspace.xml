@@ -1,9 +1,208 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="fb00a3e5-5994-4e96-b3b1-dfcdff7248cb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/greenracing/js/main.js" afterPath="$PROJECT_DIR$/sites/all/themes/greenracing/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/greenracing/css/styles.css" afterPath="$PROJECT_DIR$/sites/all/themes/greenracing/css/styles.css" />
+=======
+    <list default="true" id="fb00a3e5-5994-4e96-b3b1-dfcdff7248cb" name="Default" comment="adding files/pathspecs">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/024723444705.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/AbstractClass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/AbstractClass_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/AbstractMethod.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/AbstractPrivateClass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/AbstractPrivateClass_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/AbstractPrivateMethod.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/Awards6081.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Class.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Class_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Constant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Constructor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/DSC_1020.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/DSC_1049.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/DSC_1104.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Destructor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Function.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Global.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Index.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Interface.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Interface_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/L.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Lminus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Lplus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Method.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/P1020697.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Page.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Page_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/PrivateClass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/PrivateClass_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/PrivateMethod.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/PrivateVariable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/StaticMethod.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/StaticVariable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Tminus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Tplus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/Variable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/skins/blue/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/skins/default/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/skins/green/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/skins/orange/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/blank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/class_folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/skins/white/collapsed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/skins/white/dotted.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/eco-friendly-racing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/styles/thumbs/public/eco-friendly-racing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/skins/white/empty.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/skins/white/expanded.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/function_folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/green-racing-global-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/green-racing-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/greenlogo_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/in_bay2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel_themer/loader-little.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/menu-collapsed-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/menu-collapsed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/menu-expanded.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/menu-leaf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/message-24-error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/message-24-ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/message-24-warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/nav-menu-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/next_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/next_button_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/oil-barrell.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/styles/thumbs/public/oil-barrell.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/package.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/package_folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/previous_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/previous_button_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/private_class_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/progress.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/racing-simulator.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/styles/thumbs/public/racing-simulator.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/slider-figcap-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/manual/img/tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/tutorial.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/tutorial_folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/images/up_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/greenracing/files/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel_themer/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/README_devel_node_access.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/TODO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/Krumo/_class.krumo.php.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/banner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/blank.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/class.krumo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/lib/classTree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/classtrees_Krumo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/manual/css/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel.drush.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel.mail.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel.rules.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/develDrushTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_generate/devel_generate.drush.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_generate/devel_generate.fields.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_generate/devel_generate.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_generate/devel_generate.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_generate/devel_generate.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_generate/devel_generate.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_generate/devel_generate_batch.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_krumo_path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_node_access.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_node_access.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_node_access.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_node_access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_node_access.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel_themer/devel_themer.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel_themer/devel_themer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel_themer/devel_themer.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel_themer/devel_themer.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel_themer/devel_themer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel_themer/devel_themer.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel_themer/devel_themer_ie_fix.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/elementindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/elementindex_Krumo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/errors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/example/example_advanced_selector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/example/example_basic_selector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/example/example_callback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/example/example_extract_html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/example/example_modify_contents.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/example/scraping/example_scraping_digg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/example/scraping/example_scraping_imdb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/example/scraping/example_scraping_slashdot.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/greenracing/templates/field.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_generate/file.devel_generate.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_generate/image.devel_generate.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/manual/js/jquery-1.2.3.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/jquery-1.4.4-uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/Krumo/krumo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/krumo.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/krumo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/li_Krumo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_generate/list.devel_generate.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/manual/manual.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/manual/manual_api.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/manual/manual_faq.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_generate/number.devel_generate.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/packages.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/ric_INSTALL.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/ric_LICENSE.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/ric_README.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/ric_TODO.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/ric_VERSION.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/runtests.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/simple_html_dom.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/example/simple_html_dom_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/skins/blue/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/skins/default/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/skins/green/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/skins/orange/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/skins/white/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/media/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_generate/taxonomy.devel_generate.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_generate/text.devel_generate.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/manual/css/ui.tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/simplehtmldom/simplehtmldom/manual/js/ui.tabs.pack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/greenracing/greenracing.info" afterPath="$PROJECT_DIR$/sites/all/themes/greenracing/greenracing.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/greenracing/templates/html.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/greenracing/templates/html.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/greenracing/js/main.js" afterPath="$PROJECT_DIR$/sites/all/themes/greenracing/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/greenracing/templates/node.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/greenracing/templates/node.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/greenracing/css/styles.css" afterPath="$PROJECT_DIR$/sites/all/themes/greenracing/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
     </list>
     <ignored path="Green-Racing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,8 +239,23 @@
       <file leaf-file-name="greenracing.info" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/greenracing.info">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0" vertical-offset="1612" max-vertical-offset="2265">
               <caret line="116" column="20" selection-start-line="116" selection-start-column="20" selection-end-line="116" selection-end-column="20" />
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="1961" max-vertical-offset="2567">
+              <caret line="135" column="39" selection-start-line="135" selection-start-column="39" selection-end-line="135" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2998" max-vertical-offset="3774">
+              <caret line="202" column="4" selection-start-line="202" selection-start-column="4" selection-end-line="202" selection-end-column="4" />
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
               <folding />
             </state>
           </provider>
@@ -50,38 +264,76 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="-4.0689654" vertical-offset="7442" max-vertical-offset="11790">
               <caret line="504" column="29" selection-start-line="504" selection-start-column="29" selection-end-line="504" selection-end-column="29" />
+=======
+            <state vertical-scroll-proportion="-5.3125" vertical-offset="1275" max-vertical-offset="13294">
+              <caret line="85" column="6" selection-start-line="85" selection-start-column="6" selection-end-line="85" selection-end-column="6" />
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="node.tpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/templates/node.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="675">
+=======
+      <file leaf-file-name="field.tpl.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/templates/field.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.22934233" vertical-offset="0" max-vertical-offset="1156">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="9" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views-view-field--nothing.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/templates/views-view-field--nothing.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="561">
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0234375" vertical-offset="2610" max-vertical-offset="3375">
               <caret line="175" column="35" selection-start-line="175" selection-start-column="35" selection-end-line="175" selection-end-column="35" />
+=======
+      <file leaf-file-name="page.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/templates/page.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.56" vertical-offset="644" max-vertical-offset="1530">
+              <caret line="49" column="93" selection-start-line="49" selection-start-column="93" selection-end-line="49" selection-end-column="93" />
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="node.tpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/node/node.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="45.68" vertical-offset="1142" max-vertical-offset="1770">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+      <file leaf-file-name="html.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/templates/html.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="843" max-vertical-offset="1479">
+              <caret line="69" column="2" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
               <folding />
             </state>
           </provider>
@@ -96,11 +348,22 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/sites/all/themes/greenracing/greenracing.info" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/sites/all/themes/greenracing/templates/html.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/greenracing/templates/field.tpl.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/sites/all/themes/greenracing/css/styles.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/greenracing/js/main.js" />
+=======
+        <option value="$PROJECT_DIR$/sites/all/themes/greenracing/js/main.js" />
+        <option value="$PROJECT_DIR$/sites/all/themes/greenracing/templates/node.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/greenracing/templates/field.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/greenracing/templates/field--text-with-summary.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/greenracing/templates/page.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/greenracing/templates/html.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/greenracing/css/styles.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
       </list>
     </option>
   </component>
@@ -108,8 +371,13 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="472" />
     <option name="y" value="408" />
+=======
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
@@ -155,6 +423,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+<<<<<<< HEAD
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Green-Racing" />
@@ -361,6 +630,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+=======
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
         </subPane>
       </pane>
     </panes>
@@ -372,7 +643,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="$PROJECT_DIR$/sites/all/themes/greenracing/templates" />
+=======
+      <recent name="C:\Users\web-engineer\Desktop\MAMP\htdocs\drupal7_proj\Green-Racing\sites\all\themes\greenracing\templates" />
+      <recent name="C:\Users\web-engineer\Desktop\MAMP\htdocs\drupal7_proj\Green-Racing\sites\all\modules" />
+      <recent name="C:\Users\web-engineer\Desktop\MAMP\htdocs\drupal7_proj\Green-Racing\sites\greenracing\files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
       <recent name="C:\Users\web-engineer\Desktop\MAMP\htdocs\drupal7_proj\Green-Racing\sites\greenracing\files" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -434,15 +713,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="472" y="408" width="1382" height="754" extended-state="0" />
+=======
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.346395" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24891461" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24816984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -451,10 +739,16 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+=======
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -472,6 +766,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="adding files/pathspecs" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding files/pathspecs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -508,13 +804,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/templates/page.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1530">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
@@ -522,13 +811,34 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+=======
     <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/css/README.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2720">
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/css/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2720">
+=======
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/config.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
@@ -542,69 +852,150 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1612" max-vertical-offset="2265">
           <caret line="116" column="20" selection-start-line="116" selection-start-column="20" selection-end-line="116" selection-end-column="20" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/templates/html.tpl.php">
+=======
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/greenracing.info">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3707317" vertical-offset="657" max-vertical-offset="1290">
-          <caret line="59" column="61" selection-start-line="59" selection-start-column="61" selection-end-line="59" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/node/node.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="45.68" vertical-offset="1142" max-vertical-offset="1770">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="653">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/templates/field.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75609756" vertical-offset="405" max-vertical-offset="1020">
-          <caret line="58" column="135" selection-start-line="58" selection-start-column="135" selection-end-line="58" selection-end-column="135" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/templates/node.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1433121" vertical-offset="0" max-vertical-offset="628">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.0689654" vertical-offset="7442" max-vertical-offset="11790">
-          <caret line="504" column="29" selection-start-line="504" selection-start-column="29" selection-end-line="504" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1961" max-vertical-offset="2567">
+          <caret line="135" column="39" selection-start-line="135" selection-start-column="39" selection-end-line="135" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2998" max-vertical-offset="3774">
+          <caret line="202" column="4" selection-start-line="202" selection-start-column="4" selection-end-line="202" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/templates/views-view-field--nothing.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/simplehtmldom/LICENSE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.3707317" vertical-offset="657" max-vertical-offset="1290">
+          <caret line="59" column="61" selection-start-line="59" selection-start-column="61" selection-end-line="59" selection-end-column="61" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4760">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/modules/node/node.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="45.68" vertical-offset="1142" max-vertical-offset="1770">
+=======
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/devel/krumo/docs/Krumo/krumo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="15419">
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="653">
+=======
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/devel_themer/LICENSE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5865">
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/templates/field.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75609756" vertical-offset="405" max-vertical-offset="1020">
+          <caret line="58" column="135" selection-start-line="58" selection-start-column="135" selection-end-line="58" selection-end-column="135" />
+=======
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/templates/node.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29259896" vertical-offset="0" max-vertical-offset="782">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/templates/node.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.56" vertical-offset="644" max-vertical-offset="1530">
+          <caret line="49" column="93" selection-start-line="49" selection-start-column="93" selection-end-line="49" selection-end-column="93" />
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1433121" vertical-offset="0" max-vertical-offset="628">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/templates/html.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="843" max-vertical-offset="1479">
+          <caret line="69" column="2" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="-4.0689654" vertical-offset="7442" max-vertical-offset="11790">
+          <caret line="504" column="29" selection-start-line="504" selection-start-column="29" selection-end-line="504" selection-end-column="29" />
+=======
+        <state vertical-scroll-proportion="-5.3125" vertical-offset="1275" max-vertical-offset="13294">
+          <caret line="85" column="6" selection-start-line="85" selection-start-column="6" selection-end-line="85" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14629948" vertical-offset="0" max-vertical-offset="581">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0234375" vertical-offset="2610" max-vertical-offset="3375">
           <caret line="175" column="35" selection-start-line="175" selection-start-column="35" selection-end-line="175" selection-end-column="35" />
+=======
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/greenracing/templates/field.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22934233" vertical-offset="0" max-vertical-offset="1156">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="9" selection-end-column="23" />
+>>>>>>> 05f73afcb835810601e590384dc6474636030f4b
           <folding />
         </state>
       </provider>
