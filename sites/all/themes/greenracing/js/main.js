@@ -209,7 +209,7 @@ $(document).ready(function () {
     $('body').fadeIn(1100);
     
     $(window).scroll(function() {
-	    if ($(window).scrollTop() >= 120) {
+	    if ($(window).scrollTop() >= 35) {
 			$('body').addClass('deflate');
 		} else {
 			$('body').removeClass('deflate');
